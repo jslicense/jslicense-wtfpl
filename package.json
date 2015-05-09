@@ -1,7 +1,7 @@
 {
   "name": "jslicense-wtfpl",
   "description": "the Do What the Fuck You Want To Public License",
-  "version": "0.0.0-prerelease",
+  "version": "0.1.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
   "bugs": "https://github.com/jslicense/jslicense-wtfpl/issues",
   "homepage": "https://jslicense.github.io",
